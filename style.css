@@ -9,3 +9,15 @@
 .nav-font{
     font-size: 20px !important;
 }
+.margotopnagy{
+    margin-top: 170px;
+}
+.text-capitalize{
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+}
+.pirosgomb{
+        background-color: rgb(201, 26, 26)  !important;
+        border-color: rgb(201, 26, 26)  !important;
+}
