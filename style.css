@@ -1,23 +1,59 @@
-
-.navbar-logo{
+.navbar-logo {
     height: 60px;
     width: auto;
 }
-.bg-danger{
-    background-color: rgb(201, 26, 26)  !important;
+
+.bg-danger {
+    background-color: rgb(201, 26, 26) !important;
 }
-.nav-font{
+
+.nav-font {
     font-size: 20px !important;
 }
-.margotopnagy{
+
+.margotopnagy {
     margin-top: 170px;
 }
-.text-capitalize{
+
+.text-capitalize {
     text-transform: capitalize;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 23px;
 }
-.pirosgomb{
-        background-color: rgb(201, 26, 26)  !important;
-        border-color: rgb(201, 26, 26)  !important;
+
+.pirosgomb {
+    background-color: rgb(201, 26, 26) !important;
+    border-color: rgb(201, 26, 26) !important;
+}
+.bemutatkozaskep{
+    width: 550px;
+    border: solid white 7px;
+    border-radius: 30px;
+    float: left;
+    margin-top: 150px;
+    margin-bottom: 150px;
+margin-right: 6rem;
+}
+.containerize{
+    box-shadow: 0px 10px 20px;
+
+}
+.bemutatkozas{
+margin: 2rem auto;
+padding: 1rem;
+max-width: 900px;
+font-size: 1.2rem;
+line-height: 1.6rem;
+text-align: justify;
+margin-top: 13rem;
+}
+iframe{
+    float: right;
+    margin-right: 8rem;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+hr{
+    margin-top: 5rem;
+
 }
