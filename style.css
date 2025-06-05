@@ -55,3 +55,53 @@ hr{
     background-color: black !important;
     border-color: black !important;
 }
+.card-header{
+    border-bottom: 2px solid black;
+background-color: white;
+    justify-content: center;
+}
+.pirosbetu{
+    color:  rgb(201, 26, 26) !important ;
+    font-size: 30px;
+}
+.noborderradius{
+    border-radius: 0 !important ;
+}
+.noborderradiusjobb{
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+.noborderradiusbal{
+    border-bottom-left-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+}
+.marginxnagy {
+  margin-right: 25rem;
+  margin-left: 12rem;
+  margin-top: 5rem;
+}
+
+@media (max-width: 992px) {
+  .marginxnagy {
+    margin-right: 7rem;
+    margin-left: 7rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .marginxnagy {
+    margin: 3rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .marginxnagy {
+    margin: 1rem;
+  }
+}
+.justify{
+    text-align: justify;
+}
+.noborder{
+    border: 0;
+}
