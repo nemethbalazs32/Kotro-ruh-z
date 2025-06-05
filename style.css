@@ -51,4 +51,7 @@ hr{
     margin-top: 5rem;
 
 }
-.telephelyszoveg
+.feketegomb{
+    background-color: black !important;
+    border-color: black !important;
+}
