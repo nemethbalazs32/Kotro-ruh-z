@@ -105,3 +105,13 @@ background-color: white;
 .noborder{
     border: 0;
 }
+footer{
+    background-color: black;
+}
+.footer-logo{
+    width: 300px;
+    margin-left: 150px;
+}
+.footerlineheight{
+    line-height: 30px;
+}
