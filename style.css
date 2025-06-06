@@ -26,26 +26,20 @@
     border-color: rgb(201, 26, 26) !important;
 }
 .bemutatkozaskep{
-    width: 550px;
-    border: solid white 7px;
-    border-radius: 30px;
-    float: left;
-    margin-top: 150px;
-    margin-bottom: 150px;
-margin-right: 6rem;
+width: 550px;
+margin-left: 15rem;
+margin-top: 10rem;
+border-radius: 20px;
 }
 .containerize{
     box-shadow: 0px 10px 20px;
 
 }
 .bemutatkozas{
-margin: 2rem auto;
-padding: 1rem;
-max-width: 900px;
-font-size: 1.2rem;
-line-height: 1.6rem;
+font-size: 1.5rem;
 text-align: justify;
-margin-top: 13rem;
+margin-right: 100px;
+margin-top: 150px;
 }
 hr{
     margin-top: 5rem;
@@ -114,4 +108,14 @@ footer{
 }
 .footerlineheight{
     line-height: 30px;
+}
+.szoveg{
+    font-size: 30px ;
+}
+.nagym{
+    margin-left: 200px;
+}
+.line{
+    line-height: 10px;
+    font-size: 17px;
 }
